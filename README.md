@@ -1,4 +1,5 @@
 # YOLO 物件偵測訓練報告（Google Colab）
+組員:11325033蔡慶陞、11325035劉晉維
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RK-Prts/yolo-colab/blob/main/train_yolo_colab.ipynb)
 
